@@ -1,0 +1,13 @@
+.topic {
+    cursor: pointer;
+    user-select: none;
+  }
+  .topic:hover {
+    background-color: #2563eb;
+    transform: translateY(-3px);
+  }
+  
+  p, img {
+    user-select: none;
+  }
+  
